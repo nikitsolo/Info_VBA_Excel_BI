@@ -5,6 +5,8 @@
 Die erste Aufgabe (Aufgabenblatt 5) war es "Plausibilitätsprüfungen" auf einen Excel-Datenbestand anzuwenden und Fehler zu erkennen.
 Die Zweite Aufgabe (Aufgabenblatt 6) war es dann aus diesen korrigierten Daten eine dem Unterrichtsstoff nach besprochenen Art "Star Schema" ein kleines Data Warehouse in Excel aufzubauen. In den folgenden Aufgaben wurde dann dieses DW zuerst in eine MS-Acces Datenbank integriert, anschließend in das DW-Tool SAP BW on HANA rein geladen.
 
+Die Abgabe ist als VBA Code innerhalb der Excel Datei, sowie roh als VBA Datei vorhanden.
+
 ## Praktikum -Aufgabenblatt 5
 Aufgabe 1 (6 Punkte, Abgabe 5. bzw. 6. Juni 2019):
 Sie arbeiten als Junior-Consultant in einem kleinen Bera-tungsunternehmen. Sie sollen ein Data Warehouse für einen Autohändler konzipieren. Ihnen liegen die Rohdaten (rohda-ten.xlsx) für den An- und Verkauf der Autos vor. Im ersten Schritt sollen Sie die Daten harmonisieren und die Mängel beseitigen. (Diese Aufgabe wird fortgeführt.)
