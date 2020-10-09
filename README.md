@@ -1,6 +1,11 @@
 # VBA_Excel_BI
 
-# Praktikum -Aufgabenblatt 5
+## Folgende Aufgaben waren Teil des Bachlor Moduls "Business intelligence"
+
+Die erste Aufgabe (Aufgabenblatt 5) war es "Plausibilitätsprüfungen" auf einen Excel-Datenbestand anzuwenden und fehler zu erkennen.
+Die Zweite Aufgabe (Aufgabenblatt 6) war es dann aus diesen korrigierten Daten eine dem Unterrichtsstoff nach besprochenen Art "Star Schema" ein kleines Data Warehouse in Excel aufzubauen. In den folgenden Aufgaben wurde dann dieses DW zuerst in eine MS-Acces Datenbank integriert, anschließend in das DW-Tool SAP BW on HANA rein geladen.
+
+## Praktikum -Aufgabenblatt 5
 Aufgabe 1 (6 Punkte, Abgabe 5. bzw. 6. Juni 2019):
 Sie arbeiten als Junior-Consultant in einem kleinen Bera-tungsunternehmen. Sie sollen ein Data Warehouse für einen Autohändler konzipieren. Ihnen liegen die Rohdaten (rohda-ten.xlsx) für den An- und Verkauf der Autos vor. Im ersten Schritt sollen Sie die Daten harmonisieren und die Mängel beseitigen. (Diese Aufgabe wird fortgeführt.)
 
@@ -11,7 +16,7 @@ b) Entwickeln Sie ein VBA-Programm, das leere Datenfelder und potenzielle Ausrei
 c) Führen Sie eine Harmonisierung und ggfs. eine Fehlerbe-hebung für Datum und ID durch. Als Ergebnis soll eine Tabelle mit den Datenfeldern ID, Tag Ankauf, Monat An-kauf, Jahr Ankauf, Tag Verkauf, Monat Verkauf, Jahr Verkauf entstehen. Wenn der Verkauf noch nicht erfolgt ist, dann soll der 31.12.9999 als Verkaufsdatum ange-nommen werden. (2 Punkte)
 
 
-# Praktikum -Aufgabenblatt 6
+## Praktikum -Aufgabenblatt 6
 Aufgabe 1 (6 Punkte, Abgabe 5. bzw. 6. Juni 2019):
 
 Fortführung Data Warehouse für Autohaus Schäfer
