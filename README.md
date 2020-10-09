@@ -2,7 +2,7 @@
 
 ## Folgende Aufgaben waren Teil des Bachlor Moduls "Business intelligence"
 
-Die erste Aufgabe (Aufgabenblatt 5) war es "Plausibilitätsprüfungen" auf einen Excel-Datenbestand anzuwenden und fehler zu erkennen.
+Die erste Aufgabe (Aufgabenblatt 5) war es "Plausibilitätsprüfungen" auf einen Excel-Datenbestand anzuwenden und Fehler zu erkennen.
 Die Zweite Aufgabe (Aufgabenblatt 6) war es dann aus diesen korrigierten Daten eine dem Unterrichtsstoff nach besprochenen Art "Star Schema" ein kleines Data Warehouse in Excel aufzubauen. In den folgenden Aufgaben wurde dann dieses DW zuerst in eine MS-Acces Datenbank integriert, anschließend in das DW-Tool SAP BW on HANA rein geladen.
 
 ## Praktikum -Aufgabenblatt 5
