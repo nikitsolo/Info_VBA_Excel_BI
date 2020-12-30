@@ -1,5 +1,7 @@
 # VBA_Excel_BI
 
+In diesem Repository sind **zwei Beispiele** für die Programmierung mit der Prorgammiersprache **Visual Basic for Applications (VBA)**. 
+
 ## Folgende Aufgaben waren Teil des Bachlor Moduls "Business intelligence"
 
 Die erste Aufgabe (Aufgabenblatt 5) war es "Plausibilitätsprüfungen" auf einen Excel-Datenbestand anzuwenden und Fehler zu erkennen.
